@@ -1,19 +1,17 @@
 {
-    "name" : "Ikemia971/fnacapiclient",
+    "name" : "FnacMarketplace/fnacapiclient",
     "type" : "library",
-    "version" : "1.0.3",
+    "version" : "dev-master",
     "require": {
         "zendframework/zend-http": "^2.9",
         "zendframework/zend-uri": "^2.6",
         "zendframework/zend-validator": "^2.11",
-        "monolog/monolog": "^1.24",
+        "monolog/monolog": "^1.0",
         "symfony/finder": "^3.0",
         "symfony/http-foundation": "^3.0",
         "symfony/serializer": "^3.0",
-        "symfony/class-loader": "^3.4",
-        "symfony/yaml": "^3.0",
-        "twbs/bootstrap": "^3.3",
-        "components/jquery": "^3.3"
+        "symfony/class-loader": "^3.0",
+        "symfony/yaml": "^3.0"
     },
     "autoload" : {
         "psr-4" : {
