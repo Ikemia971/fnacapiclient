@@ -1,5 +1,6 @@
 {
     "name" : "ikemia971/fnacapiclient",
+    "version" : "2.0",
     "type" : "library",
     "require": {
         "zendframework/zend-http": "^2.9",
