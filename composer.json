@@ -1,5 +1,5 @@
 {
-    "name" : "FnacMarketplace/fnacapiclient",
+    "name" : "fnacMarketplace/fnacapiclient",
     "type" : "library",
     "version" : "dev-master",
     "require": {
